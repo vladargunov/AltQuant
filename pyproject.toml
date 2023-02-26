@@ -1,0 +1,7 @@
+[metadata]
+name = "altquant"
+author = "Vladislav Argunov"
+url = "https://github.com/vladargunov/AltQuant"
+
+[build-system]
+requires = ["setuptools"]
