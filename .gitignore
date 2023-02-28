@@ -1,0 +1,7 @@
+.pytest_cache
+__pycache__
+altquant/__pycache__
+.tox
+.venv
+.pytest_cache
+altquant.egg-info
