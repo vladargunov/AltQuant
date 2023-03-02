@@ -5,3 +5,5 @@ altquant/__pycache__
 .venv
 .pytest_cache
 altquant.egg-info
+TODO.txt
+.mypy_cache
